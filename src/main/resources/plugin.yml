@@ -1,0 +1,9 @@
+name: 2FA
+version: '${project.version}'
+main: de.darkplugins.main.Main
+api-version: '1.13'
+authors: [DarkPlugins]
+description: Just a free 2FA Authenticator Plugin
+commands:
+  2fa:
+    description: Set up or verify two-factor authentication
